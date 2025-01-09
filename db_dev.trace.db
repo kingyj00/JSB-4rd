@@ -1,0 +1,6 @@
+2025-01-09 12:20:31.213287+09:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]SUBJECT SUBJECT"; expected "SAVEPOINT, SCRIPT, SHUTDOWN"; SQL statement:
+SUBJECT SUBJECT [42001-232]
+2025-01-09 12:20:48.306702+09:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]ID"; expected "INSERT"; SQL statement:
+ID [42001-232]
